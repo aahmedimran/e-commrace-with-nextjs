@@ -6,10 +6,9 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <Layout>
-<main>
-      <p className='bg-slate-600'>some</p>
-    </main>
+      <div className='flex'>
+      </div>
     </Layout>
-    
+
   )
 }
